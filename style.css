@@ -1,0 +1,37 @@
+body{background-color:}
+
+#container{  position: relative;
+margin: auto; background-color:transparent;}
+
+.Menu{text-align: center; background-color:gray; color: white; height: 50px;
+padding-top: 10px; font-size: 20px; position: relative;
+background-color:goldenrod;}
+
+
+.introduction{width:500px ; height:700px ; position: relative;
+top: 5px; background-color:white; border: 3px solid #000; background-color: lightgray;}
+
+
+
+.naat{ width: 500px; height: 500px; background-color: lightpink;
+    position: relative ;
+   color: black; font-size: 20px; text-decoration: underline;
+    top: 0px; padding-top: 10px;
+   
+   }
+
+   
+.heading{height: 50px;
+    width: 500px; color: white; text-align: left; font-size: 10px;
+    text-decoration: underline; font-style: inherit; background-color: black;
+    padding-left: 20px;} 
+
+    .footer{width:500px ; height:20px ; position: relative;
+        top: 1000px; background-color:white; border: 0px solid red; 
+        background-color:black;
+    color: white; font-size: 15px;}
+   
+
+
+
+
