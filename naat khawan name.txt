@@ -1,0 +1,14 @@
+Asad Iqbal 
+Owais Raza Qadri 
+Sami Yusuf
+Farhan Ali Qadri 
+Abdul Rauf Roofi
+Waheed Zafar Qasmi
+Abdul Hamees Rana
+Akhter Qureshi
+
+
+#services{width: 300px; height: 20px;
+             background-color:; float: left; 
+             margin-left: 00px; padding-top: 0px;
+            margin-top: 0px;  box-sizing: border-box;}

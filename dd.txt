@@ -1,0 +1,43 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qurb-E-Elahi </title>
+</head>
+<style>
+
+
+
+
+div.naat {
+  width: auto;
+  border: 1px solid;
+  
+}
+</style>
+
+   <link href='style.css' rel='stylesheet' >
+   <body>
+
+
+   <div id="heading">Latest Online Free Audio Naat</div>
+
+
+<div class="naat">
+    <div>() Wohi Kuda Hein</div> <hr> 
+     <div>() Tu Kuja Man Kuja</div> <hr>
+     <div>() Hasbi Rabbi Jallallah Hein</div> <hr>
+     <div>() Kabay Ki Ronaq</div> <hr>
+     <div>() Wohi Kuda Hein</div> <hr>
+     <div>() Tu Kuja Man Kuja</div> <hr>
+     <div>() Hasbi Rabbi Jallallah Hein</div> <hr>
+     <div>() Kabay Ki Ronaq</div> <hr>
+     <div>() Wohi Kuda Hein</div> <hr>
+     <div>() Tu Kuja Man Kuja</div> <hr>
+
+
+     
+<a href="next1audio.html" class="next">Next 1 &raquo;</a>
+</div>
+</body>
+</html>
