@@ -14,7 +14,7 @@ top: 5px; background-color:white; border: 3px solid #000;
 
 
 
-.naat{  height: 430px; background-color:lightblue;
+.naat{  height: auto; background-color:lightblue;
     position: relative ;
    color: black; font-size: 20px; 
     top: 2px; padding-top: 5px; padding-left: 10px;
@@ -48,9 +48,9 @@ top: 5px; background-color:white; border: 3px solid #000;
                 text-decoration: underline; 
                 padding-left: 0px;} 
 
-                .naatkhawan{height: 750px; background-color:lightblue;
+                .naatkhawan{height: 200px; background-color:lightblue;
                     position: relative ;
-                   color: black; font-size: 20px; i
+                   color: black; font-size: 20px; 
                     top: 2px; padding-top: 5px; padding-left: 10px;
                 }
 
