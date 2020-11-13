@@ -1,14 +1,78 @@
-Asad Iqbal 
-Owais Raza Qadri 
-Sami Yusuf
-Farhan Ali Qadri 
-Abdul Rauf Roofi
-Waheed Zafar Qasmi
-Abdul Hamees Rana
-Akhter Qureshi
+<--------------------A Series-------->
+
+1-Asad Iqbal                  On   (Pic)
+2-Abdul Rauf Roofi            On   (Pic)
+3-Akhter Qureshi              On   (Pic)
+4-Abdul Hamees Rana           On   (Pic)
+5-Al haaj Khursheed Ahmed     On   (Pic)
+6-Abdul Qasim Noori           On   (Pic)
+
+<------------------------------------>
+<--------------------B Series-------->
+
+1-Bilal Qadri                 On   (Pic)
+
+<------------------------------------>
+<--------------------F Series-------->
+
+1-Farhan Ali Qadri            On  (Pic)
+2-Fashiuddin Soharwardi       On  (Pic)
+3-Fazlay Ahmed Raza           On  (Pic)
+
+<------------------------------------>
+<--------------------I Series-------->    
+
+1-Imran sheikh Qadri Attari   On (pic)
+
+<------------------------------------>
+<--------------------M Series-------->  
+
+1-Muhammad Mushtaq Attari     On   (pic)
+2-Muhammad Ali Soharwardi     On   (pic)
+3-Muhammad Rashid Azam        On   (pic)
+4-Mazhr Qadri Ashrafi         On   (pic)
+
+<------------------------------------>
+<--------------------O Series-------->  
+
+1-Owais Raza Qadri            On   (pic)
+
+<------------------------------------>
+<--------------------R Series--------> 
+
+1-Rehan Naqsbhandi            On   (pic)
+
+<------------------------------------>
+<--------------------S Series--------> 
+
+1-Sami Yusuf                  On   (pic)
+2-Sajid Raza Qadri            On   (pic)
+3-Syed Furqan Qadri           On   (Pic)
+4-Syed Sabihuddin Sabih       On   (Pic)
+5-Shahbaz Qamar Fareedi       On   (Pic)
+
+<------------------------------------>
+<--------------------T Series--------> 
+
+1-Tasleem Ahmed Sabri         On   (Pic)
+
+<------------------------------------>
+<--------------------W Series--------> 
+
+1-Waheed Zafar Qasmi          On   (Pic)
+
+<------------------------------------>
+<--------------------Y Series--------> 
+
+1-Yousuf Memon
+2-Yaqoob Ibrahim Naqshbandi
+
+<------------------------------------>
+<--------------------% Series--------> 
 
 
-#services{width: 300px; height: 20px;
-             background-color:; float: left; 
-             margin-left: 00px; padding-top: 0px;
-            margin-top: 0px;  box-sizing: border-box;}
+931170653
+
+
+
+
