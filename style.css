@@ -1,81 +1,115 @@
-body{background-color:}
+body
+{
+background-color:none
+}
 
-#container{  position: relative;
-margin: auto; background-color:transparent;}
+#container
+{
+position: relative;
+margin: auto; background-color:transparent;
+}
 
-.Menu{text-align: center; background-color:gray; color: white; height: 50px;
+.Menu
+{
+text-align: center; background-color:gray; color: white; height: 50px;
 padding-top: 10px; font-size: 20px; position: relative;
-background-color:goldenrod;}
+background-color:goldenrod;
+}
 
-
-.introduction{width:500px ;  position: relative;
+.introduction
+{
+width:500px ;  position: relative;
 top: 5px; background-color:white; border: 3px solid #000;
- background-color: lightgray;}
+background-color: lightgray;
+}
 
+.naat
+{
+height: auto; background-color:lightblue;
+position: relative ;
+color: black; font-size: 20px; 
+top: 2px; padding-top: 5px; padding-left: 10px;
+}
 
-
-.naat{  height: auto; background-color:lightblue;
-    position: relative ;
-   color: black; font-size: 20px; 
-    top: 2px; padding-top: 5px; padding-left: 10px;
-
- }
- .Image{height: 50px;  float: left; margin-left: 5px;
-    background-color: grey; width:1000px; font-size: 20px; color: black;}
+.Image
+{
+height: 50px;  float: left; margin-left: 5px;
+background-color: grey; width:1000px; font-size: 20px; color: black;
+}
 
                 
-.heading{height: 60px;
-    color: white; text-align: left; font-size: 30px;
-    text-decoration: underline; font-style: inherit; background-color: black;
-    padding-left: 5px; padding-top: 15px;} 
+.heading
+{
+height: 60px;
+color: white; text-align: left; font-size: 30px;
+text-decoration: underline; font-style: inherit; background-color: black;
+padding-left: 5px; padding-top: 15px;
+} 
 
-    .heading2{height: 50px; 
-        width: 500px; color: white; text-align: left; font-size: 10px;
-        text-decoration: underline; font-style: inherit; background-color: black;
-        padding-left: 20px;} 
+.heading2
+{
+height: 50px; 
+width: 500px; color: white; text-align: left; font-size: 10px;
+text-decoration: underline; font-style: inherit; background-color: black;
+padding-left: 20px;
+} 
 
-                   
- .heading3{height: 60px;
-            color: white; text-align: left; font-size: 30px;
-            text-decoration: underline; font-style: inherit; background-color: black;
-            padding-left: 5px; padding-top: 15px; margin-top: 3px;} 
+.heading3
+{
+height: 60px;
+color: white; text-align: left; font-size: 30px;
+text-decoration: underline; font-style: inherit; background-color: black;
+padding-left: 5px; padding-top: 15px; margin-top: 3px;
+} 
 
-             #services {width: 1000px; height: 200px;
-                 position: absolute; top: 680px; background-color: #fff;}
+#services
+{
+width: 1000px; height: 200px;
+position: absolute; top: 680px; background-color: #fff;
+}
 
-            .heading4{height: 30px; 
-                width: 0px; color: black; text-align: left; font-size: 9px;
-                text-decoration: underline; 
-                padding-left: 0px;} 
+.heading4
+{
+height: 30px; 
+width: 0px; color: black; text-align: left; font-size: 9px;
+text-decoration: underline; 
+padding-left: 0px;
+} 
 
-                .naatkhawan{height: auto; background-color:lightblue;
-                    position: relative ;
-                   color: black; font-size: 20px; 
-                    top: 2px; padding-top: 5px; padding-left: 10px;
-                }
+.naatkhawan
+{
+height: auto; background-color:lightblue;
+position: relative ;
+color: black; font-size: 20px; 
+top: 2px; padding-top: 5px; padding-left: 10px;
+}
 
 
 .img2{height: 100px;   margin-left: 0px;
  background-color: grey; ; 
  font-size:0px; color: black;}
 
- .names{  height: auto; background-color:lightblue;
-    position: relative ;
-   color: black; font-size: 20px; 
-    top: 2px; padding-top: 5px; padding-left: 10px
+.names
+{
+height: auto; background-color:lightblue;
+position: relative ;
+color: black; font-size: 20px; 
+top: 2px; padding-top: 5px; padding-left: 10px
+}
 
                 
-           
+.footer
+{
+position: relative; background-color:black;
+font-size:20px; text-align:center;  color:white;
+}
 
-
-    .footer{position: relative;
-        top: 0px; background-color:black  ;
- font-size: 20px; text-align: center; color: white;
-  }
-
-
-
-    
+.social
+{
+position: relative; background-color:black;
+font-size:20px; text-align:center;  color:white;
+}
+       
   
 
 
