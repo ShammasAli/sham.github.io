@@ -1,6 +1,6 @@
 body
 {
-background-color:none
+background-color:lightgray;
 }
 
 #container
@@ -106,8 +106,9 @@ top: 2px; padding-top: 5px; padding-left: 10px
                 
 .footer
 {
-position: relative; background-color:black;
+position: relative; background-color:lightgray;
 font-size:20px; text-align:center;  color:white;
+width: auto;
 }
 
 .social
