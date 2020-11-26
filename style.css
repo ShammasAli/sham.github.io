@@ -9,6 +9,13 @@ position: relative;
 margin: auto; background-color:transparent;
 }
 
+#container5
+{
+position: relative;
+margin: auto; background-color:transparent;
+
+}
+
 .Menu
 {
 text-align: center; background-color:gray; color: white; height: 50px;
@@ -18,14 +25,13 @@ background-color:goldenrod;
 
 .introduction
 {
-width:500px ;  position: relative;
-top: 5px; background-color:white; border: 3px solid #000;
-background-color: lightgray;
+width:auto ;  position: relative;
+top: none; background-color:lightgray; 
 }
 
 .naat
 {
-height: auto; background-color:lightblue;
+height: auto; background-color:lightgray;
 position: relative ;
 color: black; font-size: 20px; 
 top: 2px; padding-top: 5px; padding-left: 10px;
@@ -40,10 +46,10 @@ background-color: grey; width:1000px; font-size: 20px; color: black;
                 
 .heading
 {
-height: 60px;
+height: auto;
 color: white; text-align: left; font-size: 30px;
 text-decoration: underline; font-style: inherit; background-color: black;
-padding-left: 5px; padding-top: 15px;
+padding-left: 5px; padding-top: 0px;
 } 
 
 .heading2
@@ -78,7 +84,7 @@ padding-left: 0px;
 
 .naatkhawan
 {
-height: auto; background-color:lightblue;
+height: auto; background-color:lightgray;
 position: relative ;
 color: black; font-size: 20px; 
 top: 2px; padding-top: 5px; padding-left: 10px;
